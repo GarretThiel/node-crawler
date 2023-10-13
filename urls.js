@@ -1,4 +1,4 @@
-const urlList = [
+const!urlList = [
   //1、择天记
   'http://www.zwdu.com/book/8634/',
   //2、雪中悍刀行
@@ -202,4 +202,4 @@ const urlList = [
   "http://www.zwdu.com/book/29412/",
 ]
 
-module.exports = urlList
+module.exports = urlList 
